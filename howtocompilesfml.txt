@@ -1,0 +1,1 @@
+g++ pegSolitaire.cpp Game.cpp gameObject.cpp gameCircleObject.cpp gamePiece.cpp board.cpp -o pegSolitaire.exe -Lc:\sfml21\lib -Ic:\sfml21\include -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
